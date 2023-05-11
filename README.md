@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">
+  Olá👋, me chamo Matheus Oliveira
+</h1>
 
-<!--
-**matheusolliveira/matheusolliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Trabalho com **ciência de dados, finanças e investimentos**
+- 🌱 Estudando sobre **fundos de investimentos e derivativos**
+- 📫 E-mail: **matheusolliveiira@hotmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">
+  Contate-me:
+</h3>
+
+<div> 
+  <a href="https://www.linkedin.com/in/matheussoaresdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<h3 align="left">
+  Linguagens e ferramentas:
+</h3>
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.alteryx.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYi-7q0-2FnxoCEcuyGm10-WGaTH_WPGGng&usqp=CAU" alt="alteryx" width="40" height="40"/> </a>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusolliveira&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="matheusolliveira" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusolliveira&show_icons=true&locale=pt-br&theme=dark" alt="matheusolliveira" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusolliveira&theme=dark&locale=pt-br" alt="matheusolliveira" />
+</p>
+
