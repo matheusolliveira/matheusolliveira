@@ -21,7 +21,9 @@
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPostgreSQL&psig=AOvVaw1I5CoZ59q32AC6ijNS20wN&ust=1761864832267000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICalI3AypADFQAAAAAdAAAAABAE" alt="postgres" width="40" height="40"/> </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/> </a>
+  
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.alteryx.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYi-7q0-2FnxoCEcuyGm10-WGaTH_WPGGng&usqp=CAU" alt="alteryx" width="40" height="40"/> </a>
