@@ -4,7 +4,7 @@
 
 
 - 🔭 Trabalho com **ciência de dados, finanças e investimentos**
-- 🌱 Aprofundando conhecimentos em **fundos de investimentos, derivativos e finanças quantitativas**
+- 🌱 Conhecimento em **crédito estruturado, fundos de investimentos e finanças quantitativas**
 - 📫 E-mail: **matheusolliveiira@hotmail.com**
 
 <h3 align="left">
